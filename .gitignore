@@ -1,0 +1,10 @@
+# Brainstorm visual companion cache
+.superpowers/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

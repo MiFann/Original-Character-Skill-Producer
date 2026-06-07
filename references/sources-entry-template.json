@@ -1,0 +1,13 @@
+{
+  "id": "{{entry_id}}",
+  "source": "{{source_type}}",
+  "source_tier": "{{source_tier}}",
+  "description": "{{description}}",
+  "phase": "{{phase}}",
+  "phase_file": "{{phase_file}}",
+  "url": null,
+  "content_hash": "{{content_hash}}",
+  "created_at": "{{created_at}}",
+  "confirmed_by_user": {{confirmed_by_user}},
+  "warnings": {{warnings}}
+}

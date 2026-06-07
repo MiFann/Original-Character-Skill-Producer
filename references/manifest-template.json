@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "name": "{{character_slug}}",
+  "character": "{{character_name}}",
+  "character_type": "original",
+  "work": "original",
+  "aliases": {{aliases}},
+  "generated_at": "{{generated_at}}",
+  "generation_source": "ocsp",
+  "created_by": "{{created_by}}",
+  "research_started_at": "{{research_started_at}}",
+  "research_completed_at": "{{research_completed_at}}",
+  "latest_source_checked_at": "{{generated_at}}",
+  "covered_until": {
+    "date": "{{generated_at}}",
+    "description": "角色创作完成日期"
+  },
+  "covered_media": [],
+  "not_covered": [
+    "此为原创角色，无原作更新"
+  ],
+  "source_count": {{source_count}},
+  "source_tiers": {
+    "user_input": {{user_input_count}},
+    "co_created": {{co_created_count}},
+    "ai_inferred": {{ai_inferred_count}}
+  },
+  "quality_score": null,
+  "honesty_boundary": "本角色为原创虚构角色，由 {{created_by}} 通过 OCSP 共创生成。所有设定、行为模式和表达风格均来自创作过程，非基于已有作品角色。",
+  "ocsp_version": "1.0"
+}
